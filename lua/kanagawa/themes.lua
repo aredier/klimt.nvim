@@ -90,19 +90,19 @@ return {
     wave = function(palette)
         return {
             ui = {
-                fg         = palette.fujiWhite,
+                fg         = palette.moustacheWhite,
                 fg_dim     = palette.oldWhite,
                 fg_reverse = palette.waveBlue1,
 
                 bg_dim     = palette.sumiInk1,
                 bg_gutter  = palette.sumiInk4,
 
-                bg_m3      = palette.sumiInk0,
-                bg_m2      = palette.sumiInk1,
-                bg_m1      = palette.sumiInk2,
-                bg         = palette.sumiInk3,
-                bg_p1      = palette.sumiInk4,
-                bg_p2      = palette.sumiInk5,
+                bg_m3      = palette.rockBlack,
+                bg_m2      = palette.rockBlack,
+                bg_m1      = palette.rockBlack,
+                bg         = palette.rockBlack,
+                bg_p1      = palette.rockBlack,
+                bg_p2      = palette.rockBlack,
 
                 special    = palette.springViolet1,
                 nontext    = palette.sumiInk6,
