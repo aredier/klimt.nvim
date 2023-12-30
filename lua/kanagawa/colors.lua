@@ -3,24 +3,24 @@ local palette = {
 
     -- GRENABEE
     -- darks
-    rockDarkGreen1 = "#041B09"
-    rockBlack1 = "#020802"
-    rockDarkGrey1 = "#737366"
+    rockDarkGreen1 = "#041B09",
+    rockBlack1 = "#020802",
+    rockDarkGrey1 = "#737366",
 
     --whites
-    rockLightGrey = "#ACAB9E"
-    moustacheWhite = "#E9EED8"
+    rockLightGrey = "#ACAB9E",
+    moustacheWhite = "#E9EED8",
     -- colors
-    darkGrenadeRed1 = "#7F0000"
-    darkGrenadeRed2 = "#9A0000"
-    fishRed1 = "#AA1100"
-    fishOrange1 = "#BE4200"
-    fishOrange2 = "#B62C00"
-    elephantGreen1 = "#1A6656"
-    plantGreen1 = "#326246"
-    waterBlue1 = "#006AB5"
-    shadowPurple1 = "#001658"
-    waterDarkBlue1 = "#003968"
+    darkGrenadeRed1 = "#7F0000",
+    darkGrenadeRed2 = "#9A0000",
+    fishRed1 = "#AA1100",
+    fishOrange1 = "#BE4200",
+    fishOrange2 = "#B62C00",
+    elephantGreen1 = "#1A6656",
+    plantGreen1 = "#326246",
+    waterBlue1 = "#006AB5",
+    shadowPurple1 = "#001658",
+    waterDarkBlue1 = "#003968",
 
     -- OLD SHDES
 
