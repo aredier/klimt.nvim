@@ -90,7 +90,7 @@ return {
     wave = function(palette)
         return {
             ui = {
-                fg         = palette.moustacheWhite,
+                fg         = palette.fangIvory,
                 fg_dim     = palette.oldWhite,
                 fg_reverse = palette.waveBlue1,
 
