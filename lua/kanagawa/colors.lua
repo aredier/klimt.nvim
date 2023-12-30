@@ -3,8 +3,7 @@ local palette = {
 
     -- GRENABEE
     -- darks
-    rockDarkGreen = "#041B09",
-    rockBlack = "#020802",
+    rockBlack = "#210004",
     rockDarkGrey = "#737366",
 
     --whites
@@ -18,6 +17,7 @@ local palette = {
     fishOrange = "#BE4200",
     fishOrange = "#B62C00",
     elephantGreen = "#1A6656",
+    rockDarkGreen = "#041B09",
     plantGreen = "#326246",
     waterBlue = "#006AB5",
     shadowPurple = "#001658",

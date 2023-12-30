@@ -97,12 +97,12 @@ return {
                 bg_dim     = palette.sumiInk1,
                 bg_gutter  = palette.sumiInk4,
 
-                bg_m3      = palette.rockDarkGreen,
-                bg_m2      = palette.rockDarkGreen,
-                bg_m1      = palette.rockDarkgreen,
-                bg         = palette.rockDarkGreen,
-                bg_p1      = palette.rockDarkGreen,
-                bg_p2      = palette.rockDarkGreen,
+                bg_m3      = palette.rockBlack,
+                bg_m2      = palette.rockBlack,
+                bg_m1      = palette.rockBlack,
+                bg         = palette.rockBlack,
+                bg_p1      = palette.rockBlack,
+                bg_p2      = palette.rockBlack,
 
                 special    = palette.springViolet1,
                 nontext    = palette.sumiInk6,
