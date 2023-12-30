@@ -3,7 +3,7 @@ local palette = {
 
     -- GRENABEE
     -- darks
-    rockBlack = "#130000",
+    rockBlack = "#00012f",
     rockDarkGrey = "#737366",
 
     --whites
