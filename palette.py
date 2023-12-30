@@ -40,7 +40,7 @@ def main():
     img = io.imread(args.img)
     p = palette(img, n=args.n, r=args.r, o=args.o)
     h = [p2h(rgb * 255) for rgb in p[0]]
-    ax = plt.axes()
+    ax = plt.axes() 
     ax.imshow(img)
     ax.set_axis_off()
     axin = ax.inset_axes([0.2, 0.2, 0.6, 0.2])
