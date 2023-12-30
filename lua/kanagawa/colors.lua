@@ -38,7 +38,7 @@ local palette = {
     waveBlue2 = "#2D4F67",
 
     -- Diff and Git
-    winterGreen = "#2B3328"
+    winterGreen = "#2B3328",
     winterYellow = "#49443C",
     winterRed = "#43242B",
     winterBlue = "#252535",
