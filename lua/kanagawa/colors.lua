@@ -8,8 +8,9 @@ local palette = {
 
     --whites
     rockLightGrey = "#ACAB9E",
-    waterWhite = "#c8c9cf",
+    waterWhite = "#a6c7cc",
     fangIvory = "#f7f5c6",
+    dawnOrange = "#fecf93",
     moustacheWhite = "#E9EED8",
     -- colors
     darkGrenadeRed = "#7F0000",
