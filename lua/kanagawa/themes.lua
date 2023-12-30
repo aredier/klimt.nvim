@@ -90,9 +90,9 @@ return {
     wave = function(palette)
         return {
             ui = {
-                fg         = palette.fangIvory,
-                fg_dim     = palette.oldWhite,
-                fg_reverse = palette.waveBlue1,
+                fg         = palette.waterWhite,
+                fg_dim     = palette.waterWhite,
+                fg_reverse = palette.waterWhite,
 
                 bg_dim     = palette.sumiInk1,
                 bg_gutter  = palette.sumiInk4,
